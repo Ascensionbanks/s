@@ -1,0 +1,13 @@
+body {
+  background-color: #4A7774;
+  text-align: center;
+  font-family: Helvetica;
+  padding: 50px
+}
+
+.cew {
+  background-color: #65A39F;
+  width: 600px;
+  height: 600px;
+  padding: 10px;
+}
